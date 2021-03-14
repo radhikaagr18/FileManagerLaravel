@@ -1,4 +1,4 @@
-git clone https://github.com/radhikaagr18/FileManagerLaravel.git<br
+git clone https://github.com/radhikaagr18/FileManagerLaravel.git<br>
 cd FileManagerLaravel <br>
 composer install<br>
 cp .env.example .env<br>
